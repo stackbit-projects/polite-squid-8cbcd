@@ -52,6 +52,13 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     }
